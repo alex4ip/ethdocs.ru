@@ -1,0 +1,10 @@
+{
+  "Введение": [
+    "what-is-ethereum",
+    "history-of-ethereum"
+  ],
+  "Контракты и Транзакции": [
+    "contracts",
+    "account-types-gas-and-transactions"
+  ]
+}
