@@ -1,4 +1,5 @@
 ---
+type: doc
 layout: index
 title: "Документация по Ethereum"
 menuLabel: "Главная страница"
