@@ -1,11 +1,10 @@
 ---
 type: doc
 layout: index
-title: "Язык программирования Kotlin"
+title: "Документация по Ethereum"
 menuLabel: "Главная страница"
 url: https://kotlinlang.ru
 ---
-
 
 
 Ethereum Homestead Documentation
