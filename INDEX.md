@@ -1,11 +1,10 @@
 ---
 type: doc
 layout: index
-title: "Документация по Ethereum"
-url: http://ethdocs.ru/reference/what-is-ethereum.html
-source: http://www.ethdocs.org/en/latest/introduction/what-is-ethereum.html
+title: "Язык программирования Kotlin"
+menuLabel: "Главная страница"
+url: https://kotlinlang.ru
 ---
-
 
 
 
