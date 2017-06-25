@@ -1,3 +1,14 @@
+---
+layout: index
+title: "Документация по Ethereum"
+menuLabel: "Главная страница"
+url: http://ethdocs.ru/reference/what-is-ethereum.html
+source: http://www.ethdocs.org/en/latest/introduction/what-is-ethereum.html
+---
+
+
+
+
 Ethereum Homestead Documentation
 --------
 
